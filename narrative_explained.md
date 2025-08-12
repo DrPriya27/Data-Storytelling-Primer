@@ -8,6 +8,81 @@ A **narrative** is more than just text or speech—it's the structured flow of i
 
 In data storytelling, a narrative acts like a **bridge** between raw numbers and meaningful interpretation. It transforms data into a story that is engaging, memorable, and actionable.
 
+## Business Analytics Narrative Examples
+
+Here are examples of **effective** (good) and **ineffective** (bad) analytics narratives.
+
+---
+
+### Example 1: Sales Performance Analysis
+
+**Good Narrative:**
+> "Last quarter, our company’s sales dropped by 12%. A closer look at the data revealed that the decline was mainly in the North region, where a key competitor launched a new product. By adjusting our marketing strategy and offering targeted promotions, we saw sales in that region rebound by 8% the following month."
+
+**Why it’s Good:**
+- States the problem clearly (sales dropped 12%).
+- Identifies root cause (competitor's new product).
+- Describes specific action taken (marketing strategy, targeted promotions).
+- Quantifies the result (+8% sales rebound).
+
+**Bad Narrative:**
+> "Sales dropped in one region but then improved after we did some promotions."
+
+**Why it’s Bad:**
+- No specific data points.
+- No clear cause-effect link.
+- Lacks timeframes and measurable outcomes.
+
+---
+
+### Example 2: Customer Churn Reduction
+
+**Good Narrative:**
+> "Our analysis showed that 30% of customers who left in the past year had contacted support more than three times in their final month. By introducing a proactive support program for high-contact customers, we reduced churn by 15% in just one quarter."
+
+**Why it’s Good:**
+- Uses specific metrics (30% of churned customers, 3+ contacts).
+- Clear link between data insights and action taken (proactive support).
+- Measures improvement (15% churn reduction in one quarter).
+
+**Bad Narrative:**
+> "We found some customers were unhappy, so we added better support and churn went down."
+
+**Why it’s Bad:**
+- Vague and subjective ("some customers were unhappy").
+- No quantified analysis or improvement figures.
+- No clear timeline.
+
+---
+
+### Example 3: Inventory Optimization
+
+**Good Narrative:**
+> "We noticed that stockouts of popular products were causing lost sales. By analyzing purchasing patterns and adjusting reorder points, we decreased stockouts by 40%, leading to a 10% increase in overall sales."
+
+**Why it’s Good:**
+- Identifies specific issue (stockouts causing lost sales).
+- Shows data-driven action (analyzing patterns, adjusting reorder points).
+- Quantifies results (40% fewer stockouts, 10% sales increase).
+
+**Bad Narrative:**
+> "We were running out of products, so we ordered more and sales went up."
+
+**Why it’s Bad:**
+- Oversimplified with no analytical insight.
+- Missing metrics and cause-effect explanation.
+- Action sounds generic, not strategic.
+
+---
+
+## Frequently Asked Questions
+
+**Q1:** How can narratives help in business analytics presentations?
+- **A:** Narratives make complex data relatable and easier to understand, helping stakeholders see the real-world impact and make informed decisions.
+
+**Q2:** What should I include in a business analytics narrative?
+- **A:** Focus on context, key findings, the impact of those findings, and actionable recommendations to drive business improvements.
+---
 ---
 
 ## Why is Narrative Important in Data Storytelling?
@@ -642,3 +717,4 @@ But if you don’t register, 8 people might miss their chance at life, and you r
 
 **Q4:** Why is it important to be aware of biases in framing?  
 **A:** Awareness helps you present data more ethically and transparently, building trust with your audience.
+
